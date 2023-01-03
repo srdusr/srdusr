@@ -7,7 +7,7 @@
 I'm a developer from South Africa that enjoys solving problems and finding ways to be better at what I do.
 
 - 🌱 I’m currently learning C and Rust
-- 🥅 2022 Goals: Make a lot of cool projects
+- 🥅 2023 Goals: Make a lot of cool projects
 - ⚡ Fun fact: I use Arch btw and vim/neovim
 
 - ***Programming Languages***
