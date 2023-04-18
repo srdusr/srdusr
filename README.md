@@ -16,7 +16,7 @@ I'm a developer from South Africa that enjoys solving problems and finding ways 
 
 - ***Contact Me***
 
-  * Email: [`graytrevor98@gmail.com`](mailto:graytrevor98@gmail.com)
+  * Email: [`trevorgray@srdusr.com`](mailto:trevorgray@srdusr.com)
 
 [![website](./img/twitter-light.svg)](https://twitter.com/srdusrr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/srdusr#gh-dark-mode-only)
