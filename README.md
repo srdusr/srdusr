@@ -17,11 +17,6 @@ I'm a developer from South Africa that enjoys solving problems and finding ways 
 
   * Email: [`trevorgray@srdusr.com`](mailto:trevorgray@srdusr.com)
 
-[![website](./img/twitter-light.svg)](https://twitter.com/srdusrr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/srdusr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/trevorgray.exe#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/trevorgray.exe#gh-dark-mode-only)
 
 
 <br />
@@ -38,5 +33,3 @@ I'm a developer from South Africa that enjoys solving problems and finding ways 
 
 </details>
 
-[twitter]: https://twitter.com/srdusr
-[instagram]: https://instagram.com/trevorgray.exe
