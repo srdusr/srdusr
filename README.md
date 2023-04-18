@@ -11,7 +11,7 @@ I'm a developer from South Africa that enjoys solving problems and finding ways 
 
 - ***Programming Languages***
 
-  * Familiar with **C**, **Rust** and **Lua**.
+  * Familiar with **C**, **Rust**, **Python**, **Bash** and **Lua**.
 
 - ***Contact Me***
 
