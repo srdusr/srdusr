@@ -8,6 +8,7 @@ I'm a developer from South Africa that enjoys solving problems and finding ways 
 - 🌱 I’m currently learning C and Rust
 - 🥅 2023 Goals: Make a lot of cool projects
 - ⚡ Fun fact: I use Arch btw and vim/neovim
+- 📰 I regularly write articles on my website [srdusr.com](https://www.srdusr.com)
 
 - ***Programming Languages***
 
@@ -15,7 +16,7 @@ I'm a developer from South Africa that enjoys solving problems and finding ways 
 
 - ***Contact Me***
 
-  * Email: [`trevorgray@srdusr.com`](mailto:trevorgray@srdusr.com)
+  * 📫 Email: [`trevorgray@srdusr.com`](mailto:trevorgray@srdusr.com)
 
 
 
