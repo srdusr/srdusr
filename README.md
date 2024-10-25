@@ -1,7 +1,12 @@
-### Hi there! I'm Trevor but you can call me by my internet name _srdusr_ 👋
+## $ whoami
 
-#### $ whoami
-
+- Hi there! I'm Trevor but you can call me by my internet name _srdusr_ 👋
+  (noun/alias) • /ˈsərdəzər/ <br />
+  • A combination of the words "sword" and "user", shortened for
+  convenience and styled in the fashion of unix commands. <br />
+  • Example: Srdusr, akin to a command-line ninja, slashes through
+  technical challenges with the agility and precision of a well-honed
+  blade...
 - 🌱 I’m currently learning C and Rust
 
 #### 🔧 Languages / Tools
