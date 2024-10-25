@@ -1,6 +1,6 @@
 ## $ whoami
 
-- Hi there! I'm Trevor but you can call me by my internet name _srdusr_ 👋
+- Hi there! I'm Trevor but you can call me by my internet name _srdusr_ 👋  
   (noun/alias) • /ˈsərdəzər/ <br />
   • A combination of the words "sword" and "user", shortened for
   convenience and styled in the fashion of unix commands. <br />
