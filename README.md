@@ -1,13 +1,8 @@
-### Hi there! I'm Trevor but you can call me by my internet name *srdusr* 👋
+### Hi there! I'm Trevor but you can call me by my internet name _srdusr_ 👋
 
-#### $ whoami 
-
-I'm a developer from South Africa that enjoys solving problems and finding ways to be better at what I do.
+#### $ whoami
 
 - 🌱 I’m currently learning C and Rust
-- 🥅 2024 Goals: Make a lot of cool projects
-- ⚡ Fun fact: I use Arch btw and vim/neovim
-- 📰 I regularly write articles on my website [srdusr.com](https://www.srdusr.com)
 
 #### 🔧 Languages / Tools
 
@@ -23,11 +18,4 @@ I'm a developer from South Africa that enjoys solving problems and finding ways 
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=3C9CD7)
 ![Javascript](https://img.shields.io/badge/-JavaScipt-05122A?style=flat&logo=javascript)
 
-#### Contact Me
-
- - 📫 Email: [`trevorgray@srdusr.com`](mailto:trevorgray@srdusr.com)
-
-- - -
-
-
-
+---
